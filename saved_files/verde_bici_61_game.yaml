@@ -1,0 +1,36 @@
+---
+word: dare
+available:
+- b
+- c
+- d
+- e
+- f
+- h
+- j
+- k
+- m
+- n
+- o
+- p
+- q
+- r
+- s
+- t
+- u
+- v
+- w
+- x
+- y
+- z
+correct: &1
+- _
+- a
+- _
+- _
+incorrect: *1
+used:
+- a
+- i
+- g
+- l

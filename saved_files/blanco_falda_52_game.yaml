@@ -1,0 +1,37 @@
+---
+word: Denny
+available:
+- b
+- c
+- d
+- f
+- g
+- h
+- i
+- j
+- k
+- l
+- m
+- n
+- o
+- p
+- q
+- r
+- t
+- u
+- v
+- w
+- x
+- z
+correct: &1
+- _
+- e
+- _
+- _
+- y
+incorrect: *1
+used:
+- s
+- y
+- a
+- e
